@@ -1,0 +1,1 @@
+I use NRF24L01, Arduino and HM-10 BLE. Upload this sktech to both your arduino (with nrf and ble), install app on your android phones -> connect to ble and you can start chat using rf waves!
